@@ -10,6 +10,11 @@ MongoDB Node Driver
 Node Driver
 ===========
 
+.. note::
+   
+   These docs are for version 3.5 of the MongoDB Node.js driver. If
+   you're looking for blah go to here.
+
 Introduction
 ------------
 
@@ -43,15 +48,12 @@ You can learn about the following MongoDB concepts:
 - **Authentication:** Learn how to log a user in
 - **Logs:** Learn how MongoDB logs operations and how to work with them
 
+Usage Example
+-------------
+
+If you're new to MongoDB and
+
 Compatibility
 -------------
 
-MongoDB Compatibility
-~~~~~~~~~~~~~~~~~~~~~
-
-.. include:: /includes/mongodb-compatibility-table-node.rst
-
-Language Compatibility
-~~~~~~~~~~~~~~~~~~~~~~
-
-.. include:: /includes/language-compatibility-table-node.rst
+Learn how to do this shit elsewhere
