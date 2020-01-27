@@ -6,6 +6,13 @@ MongoDB Node Driver
 
 .. include:: /includes/unicode-checkmark.rst
 
+===========
+Node Driver
+===========
+
+Introduction
+------------
+
 The MongoDB Node driver documentation contains documentation specific to
 the Node driver. For the main MongoDB documentation, see the
 :manual:`MongoDB Manual </>`.
@@ -22,6 +29,16 @@ The Node driver documentation is organized as follows:
   /api-documentation
   /faq
   /issues-and-help
+
+Fundamentals
+------------
+
+If you're new to MongoDB or want to brush up on the basics, start here!
+
+You can learn about the following MongoDB concepts:
+
+- **CRUD:** Learn how to get data into and out of MongoDB
+- **Indexes:** Learn how to foo
 
 Compatibility
 -------------
