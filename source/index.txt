@@ -34,11 +34,14 @@ Fundamentals
 ------------
 
 If you're new to MongoDB or want to brush up on the basics, start here!
+A couple more sentences if we feel like it.
 
 You can learn about the following MongoDB concepts:
 
 - **CRUD:** Learn how to get data into and out of MongoDB
 - **Indexes:** Learn how to foo
+- **Authentication:** Learn how to log a user in
+- **Logs:** Learn how MongoDB logs operations and how to work with them
 
 Compatibility
 -------------
