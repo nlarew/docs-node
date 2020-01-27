@@ -48,10 +48,21 @@ You can learn about the following MongoDB concepts:
 - **Authentication:** Learn how to log a user in
 - **Logs:** Learn how MongoDB logs operations and how to work with them
 
-Usage Example
+Usage Examples
+--------------
+
+If you want to see working code examples for common use cases, check out
+our usage examples. This section is best suited for whomever.
+
+<Button>
+  Click here to see the usage examples
+</Button>
+
+API Reference
 -------------
 
-If you're new to MongoDB and
+If you're already familiar with how the driver works and want to look up
+some specific information on methods,
 
 Compatibility
 -------------
